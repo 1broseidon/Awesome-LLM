@@ -525,7 +525,7 @@
 - [Prompttools](https://github.com/hegelai/prompttools) — Open-source Python tools for testing and evaluating models, vector DBs, and prompts.
 - [Outlines](https://github.com/normal-computing/outlines) — A Python library that provides a domain-specific language to simplify prompting and constrain generation.
 - [Promptify](https://github.com/promptslab/Promptify) — A small Python library for using language models to perform NLP tasks.
-- [Promptext](https://github.com/1broseidon/promptext) — A CLI tool for extracting and formatting codebase context for LLM prompts with intelligent filtering, relevance prioritization, and accurate token counting.
+- [Promptext](https://github.com/1broseidon/promptext) - Extracts and formats code context for LLM prompts with token counting.
 - [Scale Spellbook](https://scale.com/spellbook) — A paid product for building, comparing, and shipping language model apps.
 - [PromptPerfect](https://promptperfect.jina.ai/prompts) — A paid product for testing and improving prompts.
 - [Weights & Biases](https://wandb.ai/site/solutions/llmops) — A paid product for tracking model training and prompt engineering experiments.
